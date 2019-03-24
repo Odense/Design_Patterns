@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\bin\Debug\Patterns_Lab1.exe.config
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\bin\Debug\Patterns_Lab1.exe
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\bin\Debug\Patterns_Lab1.pdb
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\obj\Debug\Patterns_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\obj\Debug\Patterns_Lab1.exe
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\obj\Debug\Patterns_Lab1.pdb
+C:\Users\Иван\source\repos\Patterns_Lab1\Patterns_Lab1\obj\Debug\Patterns_Lab1.csprojAssemblyReference.cache

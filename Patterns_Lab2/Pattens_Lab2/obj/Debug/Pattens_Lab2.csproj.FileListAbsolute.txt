@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\bin\Debug\Pattens_Lab2.exe.config
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\bin\Debug\Pattens_Lab2.exe
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\bin\Debug\Pattens_Lab2.pdb
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\obj\Debug\Pattens_Lab2.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\obj\Debug\Pattens_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\obj\Debug\Pattens_Lab2.exe
+C:\Users\Иван\source\repos\Pattens_Lab2\Pattens_Lab2\obj\Debug\Pattens_Lab2.pdb
