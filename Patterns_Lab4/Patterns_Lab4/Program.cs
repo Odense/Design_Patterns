@@ -15,11 +15,7 @@ namespace Patterns_Lab4
             while (true)
             {
                 Console.WriteLine("If you want to change automat state - press 'Enter' or 'Esc' to finish");
-                if (Console.ReadKey().Key == ConsoleKey.Enter) contextAutomat.SetState(ContextAutomat.AutomatStateSetting.Working);
-                else if (Console.ReadKey().Key == ConsoleKey.Escape) break;
-                contextAutomat.Working();
-                Console.WriteLine("If you want to change automat state - press 'Enter' or 'Esc' to finish");
-                if (Console.ReadKey().Key == ConsoleKey.Enter) contextAutomat.SetState(ContextAutomat.AutomatStateSetting.Idleness);
+                if (Console.ReadKey().Key == ConsoleKey.Enter) contextAutomat.SetState();
                 else if (Console.ReadKey().Key == ConsoleKey.Escape) break;
                 contextAutomat.Working();
             }

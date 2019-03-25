@@ -49,8 +49,6 @@ namespace Patterns_Lab4
 
     class ContextAutomat
     {
-        public enum AutomatStateSetting { Working, Idleness };
-
         WorkingState wkst = new WorkingState();
         IdlenessState idlnst = new IdlenessState();
 
@@ -61,10 +59,10 @@ namespace Patterns_Lab4
             CurrentState = idlnst;
         }
 
-        public void SetState(AutomatStateSetting newState)
+        public void SetState()
         {
-            if (newState == AutomatStateSetting.Idleness) CurrentState = idlnst;
-            else CurrentState = wkst;
+            if (CurrentState == idlnst) CurrentState = wkst;
+            else CurrentState = idlnst;
         }
 
         public void Working()
